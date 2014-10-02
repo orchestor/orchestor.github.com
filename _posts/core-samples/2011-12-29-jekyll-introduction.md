@@ -127,8 +127,12 @@ Jekyll expects your website directory to be laid out like so:
 
 ### Jekyll Configuration
 
+<<<<<<< HEAD
 Jekyll supports various configuration options that are fully outlined here:
 (<https://github.com/mojombo/jekyll/wiki/Configuration>)
+=======
+Jekyll supports various configuration options that are fully outlined here: <https://github.com/mojombo/jekyll/wiki/Configuration>
+>>>>>>> 0af980f58be9253b7fe318e076191ffd6261cb6b
 
 
 
